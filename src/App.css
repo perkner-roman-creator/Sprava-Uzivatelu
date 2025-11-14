@@ -1,0 +1,9 @@
+@media (max-width: 600px) {
+  form, ul, div {
+    width: 100%;
+    font-size: 16px;
+  }
+  img {
+    width: 30px;
+  }
+}
