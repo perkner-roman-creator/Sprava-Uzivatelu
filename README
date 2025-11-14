@@ -1,0 +1,22 @@
+# 👤 Správa uživatelů ve webové aplikaci
+
+**Jazyk:** JavaScript + React  
+**Build:** Create React App
+
+## Spuštění
+
+1. Nainstalujte závislosti:
+
+   cd frontend
+   npm install
+
+2. Spusťte vývojový server:
+
+   npm start
+  
+3. Otevřete http://localhost:3000
+
+## Funkce
+
+- Přidávání, úprava a mazání uživatelů
+- Správa uživatelů přes webové rozhraní
