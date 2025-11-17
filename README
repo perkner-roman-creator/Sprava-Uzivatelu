@@ -16,7 +16,7 @@
   
 3. Otevřete http://localhost:3000
 
-Webová aplikace pro správu uživatelů. Umožňuje:
+Webová aplikace pro správu uživatelů, která umožňuje:
 
 -Přidávat, upravovat a mazat uživatele (jméno, email, role, aktivita)
 -Vyhledávat a filtrovat uživatele podle zadaných údajů
