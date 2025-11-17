@@ -20,3 +20,5 @@
 
 - Přidávání, úprava a mazání uživatelů
 - Správa uživatelů přes webové rozhraní
+
+Backend využívá MySQL databázi (tabulka uzivatele), frontend je postavený na moderním webovém frameworku. Projekt je vhodný pro administraci uživatelů v menších aplikacích nebo systémech.
