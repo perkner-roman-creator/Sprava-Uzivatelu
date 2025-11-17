@@ -18,7 +18,12 @@
 
 ## Funkce
 
-- Přidávání, úprava a mazání uživatelů
-- Správa uživatelů přes webové rozhraní
+Tento projekt je webová aplikace pro správu uživatelů. Umožňuje:
+
+-Přidávat, upravovat a mazat uživatele (jméno, email, role, aktivita)
+-Vyhledávat a filtrovat uživatele podle zadaných údajů
+-Nastavovat roli uživatele (uživatel/admin) a jeho aktivitu
+-Zobrazovat přehled uživatelů včetně detailů
+-Moderní a přehledné uživatelské rozhraní
 
 Backend využívá MySQL databázi (tabulka uzivatele), frontend je postavený na moderním webovém frameworku. Projekt je vhodný pro administraci uživatelů v menších aplikacích nebo systémech.
