@@ -16,8 +16,6 @@
   
 3. Otevřete http://localhost:3000
 
-## Funkce
-
 Tento projekt je webová aplikace pro správu uživatelů. Umožňuje:
 
 -Přidávat, upravovat a mazat uživatele (jméno, email, role, aktivita)
