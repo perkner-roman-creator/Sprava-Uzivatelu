@@ -1,27 +1,36 @@
-# 👤 Správa uživatelů ve webové aplikaci
+# 👤 Správa uživatelů - Moderní webová aplikace pro správu uživatelů s přehledným rozhraním a CRUD operacemi.
 
-**Jazyk:** JavaScript + React  
-**Build:** Create React App
+## 🚀 Technologie
 
-## Spuštění
+## Backend
+- **Node.js** - serverové prostředí
+- **Express.js** - web framework
+- **MySQL** - SQL databáze (mysql2)
+- **phpMyAdmin** - správa databáze
+- **REST API** - komunikace s frontendem
 
-1. Nainstalujte závislosti:
+## Frontend
+- **React** - UI knihovna
+- **JavaScript** - logika aplikace (ES6+)
+- **Create React App** - nástroj pro build a vývojový server
+- **CSS3** - stylování a layout
 
-   cd frontend
-   npm install
+## ✨ Funkce
+- **Přidávání uživatelů** - formulář pro vytvoření nového uživatele
+- **Úprava uživatelů** - editace existujících záznamů
+- **Mazání uživatelů** - odstranění uživatelů ze systému
+- **Seznam uživatelů** - přehledný výpis všech uživatelů
+- **Validace formulářů** - kontrola vstupních dat
+- **Responzivní design** - funguje na všech zařízeních
+- **Moderní UI** - čisté a intuitivní rozhraní
 
-2. Spusťte vývojový server:
+## 📋 Sekce
+1. **Seznam uživatelů** - tabulka/seznam všech uživatelů
+2. **Formulář** - přidání nebo úprava uživatele
+3. **Detaily** - zobrazení informací o uživateli
+4. **Akce** - tlačítka pro úpravu a mazání
 
-   npm start
-  
-3. Otevřete http://localhost:3000
-
-Webová aplikace pro správu uživatelů, která umožňuje:
-
--Přidávat, upravovat a mazat uživatele (jméno, email, role, aktivita)
--Vyhledávat a filtrovat uživatele podle zadaných údajů
--Nastavovat roli uživatele (uživatel/admin) a jeho aktivitu
--Zobrazovat přehled uživatelů včetně detailů
--Moderní a přehledné uživatelské rozhraní
-
-Backend využívá MySQL databázi (tabulka uzivatele), frontend je postavený na moderním webovém frameworku. Projekt je vhodný pro administraci uživatelů v menších aplikacích nebo systémech.
+## 📝 Poznámky
+- Data se ukládají do **MySQL databáze**
+- Správa databáze přes **phpMyAdmin**
+- Frontend komunikuje s backendem přes REST API
