@@ -1,7 +1,5 @@
 # 👤 Správa uživatelů - Moderní webová aplikace pro správu uživatelů s přehledným rozhraním a CRUD operacemi.
 
-## 🚀 Technologie
-
 ## Backend
 - **Node.js** - serverové prostředí
 - **Express.js** - web framework
